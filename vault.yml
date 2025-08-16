@@ -1,0 +1,5 @@
+---
+- hosts: vault.engiqueer.net
+  roles:
+    - engiqueer.common.ssh
+    - engiqueer.services.vault

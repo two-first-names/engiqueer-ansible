@@ -1,0 +1,3 @@
+ansible_user: root
+ansible_host: 2a01:4f8:c17:e959::1
+architecture: arm64
