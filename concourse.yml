@@ -1,7 +1,7 @@
 ---
-- hosts: concourse-web
+- hosts: concourse_web
   roles:
   - engiqueer.services.concourse_web
-- hosts: concourse-worker
+- hosts: concourse_worker
   roles:
   - engiqueer.services.concourse_worker

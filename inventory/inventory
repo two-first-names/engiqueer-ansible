@@ -1,8 +1,9 @@
+git.engiqueer.net
 vault.engiqueer.net
 vtt.engiqueer
 
-[concourse-web]
+[concourse_web]
 git.engiqueer.net
 
-[concourse-worker]
+[concourse_worker]
 git.engiqueer.net
