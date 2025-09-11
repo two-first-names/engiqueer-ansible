@@ -1,0 +1,4 @@
+---
+- hosts: auth.engiqueer.net
+  roles:
+    - engiqueer.services.authentik
