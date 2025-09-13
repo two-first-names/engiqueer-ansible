@@ -1,0 +1,4 @@
+---
+- hosts: git.engiqueer.net
+  roles:
+    - engiqueer.services.forgejo
